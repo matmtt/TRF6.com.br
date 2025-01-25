@@ -1,0 +1,10 @@
+{
+  "name": "trf6-redirect",
+  "version": "1.0.0",
+  "description": "A simple Node.js application that serves as a redirect page for the TRF6 tribunal.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {}
+}
